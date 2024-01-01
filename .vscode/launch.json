@@ -1,0 +1,474 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestAnnonymousInner1",
+            "request": "launch",
+            "mainClass": "Pinnerclasses.TestAnnonymousInner1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "memberinnerclass",
+            "request": "launch",
+            "mainClass": "Pinnerclasses.memberinnerclass",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "testprivate_ams",
+            "request": "launch",
+            "mainClass": "Naccessmodifers.Package1.testprivate_ams",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Satya",
+            "request": "launch",
+            "mainClass": "Naccessmodifers.Package1.SubPackage1.Satya",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Vasu",
+            "request": "launch",
+            "mainClass": "Naccessmodifers.Package1.Vasu",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Durga",
+            "request": "launch",
+            "mainClass": "Mpackages.Package2.Durga",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Suresh",
+            "request": "launch",
+            "mainClass": "Mpackages.Package2.Suresh",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "mawa",
+            "request": "launch",
+            "mainClass": "Mpackages.Package1.mawa",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Case1",
+            "request": "launch",
+            "mainClass": "Labstraction.Case1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Case4",
+            "request": "launch",
+            "mainClass": "Kinterface.Case4.Case4",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Case3",
+            "request": "launch",
+            "mainClass": "Kinterface.Case3.Case3",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Case2",
+            "request": "launch",
+            "mainClass": "Kinterface.Case2.Case2",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Case1",
+            "request": "launch",
+            "mainClass": "Kinterface.Case1.Case1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "TestMemberOuter1",
+            "request": "launch",
+            "mainClass": "TestMemberOuter1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "srinu",
+            "request": "launch",
+            "mainClass": "kPackage.srinu",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "vasu",
+            "request": "launch",
+            "mainClass": "kPackage.vasu",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "jemmi",
+            "request": "launch",
+            "mainClass": "kPackage.jemmi",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bmultilevel",
+            "request": "launch",
+            "mainClass": "Dinheritence.Bmultilevel",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Cheriarcle",
+            "request": "launch",
+            "mainClass": "Dinheritence.Cheriarcle",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "G",
+            "request": "launch",
+            "mainClass": "Cthis.G",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "ClassF",
+            "request": "launch",
+            "mainClass": "Aclassandobj.ClassF",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ClassA",
+            "request": "launch",
+            "mainClass": "Aclassandobj.ClassA",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "ClassB",
+            "request": "launch",
+            "mainClass": "Aclassandobj.ClassB",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "ClassC",
+            "request": "launch",
+            "mainClass": "Aclassandobj.ClassC",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "ClassD",
+            "request": "launch",
+            "mainClass": "Aclassandobj.ClassD",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "ClassE",
+            "request": "launch",
+            "mainClass": "Aclassandobj.ClassE",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "ClassG",
+            "request": "launch",
+            "mainClass": "Aclassandobj.ClassG",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Astaticmethod",
+            "request": "launch",
+            "mainClass": "Bstatic.Astaticmethod",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bstaticmethodfromanotherclass",
+            "request": "launch",
+            "mainClass": "Bstatic.Bstaticmethodfromanotherclass",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Ccountstatic",
+            "request": "launch",
+            "mainClass": "Bstatic.Ccountstatic",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Dcase4",
+            "request": "launch",
+            "mainClass": "Bstatic.Dcase4",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Adatareturn",
+            "request": "launch",
+            "mainClass": "Cmethods.Adatareturn",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "Cthis.C",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "D",
+            "request": "launch",
+            "mainClass": "Cthis.D",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "F",
+            "request": "launch",
+            "mainClass": "Cthis.F",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "TestThis1",
+            "request": "launch",
+            "mainClass": "Cthis.TestThis1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Asingle",
+            "request": "launch",
+            "mainClass": "Dinheritence.Asingle",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Dtest",
+            "request": "launch",
+            "mainClass": "Dinheritence.Dtest",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1",
+            "request": "launch",
+            "mainClass": "Eaggregation.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bcase2",
+            "request": "launch",
+            "mainClass": "Eaggregation.Bcase2",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1(1)",
+            "request": "launch",
+            "mainClass": "Fpolymorphism.AmethodOverloading.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bcase2(1)",
+            "request": "launch",
+            "mainClass": "Fpolymorphism.AmethodOverloading.Bcase2",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Ccase3",
+            "request": "launch",
+            "mainClass": "Fpolymorphism.AmethodOverloading.Ccase3",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Dcase3",
+            "request": "launch",
+            "mainClass": "Fpolymorphism.AmethodOverloading.Dcase3",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1(2)",
+            "request": "launch",
+            "mainClass": "Fpolymorphism.Bmethodoveriding.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1(3)",
+            "request": "launch",
+            "mainClass": "Fpolymorphism.Cruntime.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bcase2(2)",
+            "request": "launch",
+            "mainClass": "Fpolymorphism.Cruntime.Bcase2",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1(4)",
+            "request": "launch",
+            "mainClass": "Gsuper.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bcase2(3)",
+            "request": "launch",
+            "mainClass": "Gsuper.Bcase2",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Ccase3(1)",
+            "request": "launch",
+            "mainClass": "Gsuper.Ccase3",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Dcase4(1)",
+            "request": "launch",
+            "mainClass": "Gsuper.Dcase4",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Ecase5",
+            "request": "launch",
+            "mainClass": "Gsuper.Ecase5",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1(5)",
+            "request": "launch",
+            "mainClass": "Hfinal.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bcase2(4)",
+            "request": "launch",
+            "mainClass": "Hfinal.Bcase2",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1(6)",
+            "request": "launch",
+            "mainClass": "IJavaBlocks.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Bcase2(5)",
+            "request": "launch",
+            "mainClass": "IJavaBlocks.Bcase2",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Ccase3(2)",
+            "request": "launch",
+            "mainClass": "IJavaBlocks.Ccase3",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Acase1(7)",
+            "request": "launch",
+            "mainClass": "Jinstanceof.Acase1",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Catsting",
+            "request": "launch",
+            "mainClass": "Jinstanceof.Catsting",
+            "projectName": "Oops_48b3880f"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Oops_48b3880f"
+        }
+    ]
+}
